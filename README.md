@@ -3,7 +3,9 @@
 #PokDex
 
 
+
 Projeto criado na plataforma DevMedia. É uma Pokédex simples e intuitiva, feita apenas com HTML e CSS, apresentando os Pokémon da primeira geração, seus tipos, habilidades e região de origem. Confira o projeto completo: PokDex.
+ Acesse e veja : https://jaoabyo.github.io/PokDex/
 
 
 
